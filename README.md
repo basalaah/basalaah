@@ -6,11 +6,11 @@ I'm a self-taught developer and final-year engineering student interested in bui
 
 ### Technical Skills
 
-**Languages:** HTML, CSS, JavaScript
+**Languages:** HTML, CSS, JavaScript, TypeScript
 
-**Frontend:** React, Next.js, Tailwind CSS
+**Frontend:** React, Next.js, Tailwind CSS , Responsive design
 
-**Backend & Databases:** Node.js, PostgreSQL
+**Backend & Databases:** Node.js, PostgreSQL, SQL
 
 **CMS & Backend Platforms:** Payload CMS, Appwrite (Self-Hosted)
 

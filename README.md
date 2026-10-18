@@ -18,6 +18,6 @@ I'm a self-taught developer and final-year engineering student interested in bui
 
 ### Connect
 
-- GitHub: https://github.com/basalaah/basalaah
+- GitHub: https://github.com/basalaah
 - LinkedIn: www.linkedin.com/in/basalaah
 - Email: basalaah.abdu@gmail.com

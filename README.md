@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Abdullah 👋
 
-<!--
-**basalaah/basalaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Final-Year Engineering Student | Web Developer
 
-Here are some ideas to get you started:
+I'm a self-taught developer and final-year engineering student interested in building practical, reliable, and maintainable web applications. I focus on modern web technologies, structured development workflows, and solving real-world problems through software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+**Languages:** HTML, CSS, JavaScript
+
+**Frontend:** React, Next.js, Tailwind CSS
+
+**Backend & Databases:** Node.js, PostgreSQL
+
+**CMS & Backend Platforms:** Payload CMS, Appwrite (Self-Hosted)
+
+**Tools & Development Workflow:** Git, GitHub, Docker, GitHub Spec Kit, Spec-Driven Development
+
+### Connect
+
+- GitHub: https://github.com/basalaah/basalaah
+- LinkedIn: www.linkedin.com/in/basalaah
+- Email: basalaah.abdu@gmail.com
